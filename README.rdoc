@@ -1,0 +1,3 @@
+===AMA3 Anytime
+
+A bower'fied copy of AMA3's anytime widget: http://www.ama3.com/anytime/

@@ -1,0 +1,26 @@
+{
+  "name": "ama3-anytime",
+  "version": "4.2013.07.25.a",
+  "homepage": "*  Noncommercial-Share Alike 3.0 Unported License",
+  "authors": [
+    "Andrew M. Andrews III"
+  ],
+  "description": "The Any+Time(TM) JavaScript Library",
+  "main": "anytime.js",
+  "keywords": [
+    "ama3",
+    "anytime",
+    "datetime"
+  ],
+  "license": "Creative Commons Attribution-",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery":"1.4"
+  }
+}
